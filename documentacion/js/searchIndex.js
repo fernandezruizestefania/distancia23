@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\suma\u0028\u0029",
+            "name": "suma",
+            "summary": "Calcula\u0020la\u0020suma\u0020de\u0020dos\u0020n\u00FAmeros.",
+            "url": "namespaces/default.html#function_suma"
+        },                {
+            "fqsen": "\\resta\u0028\u0029",
+            "name": "resta",
+            "summary": "Calcula\u0020la\u0020resta\u0020de\u0020dos\u0020n\u00FAmeros.",
+            "url": "namespaces/default.html#function_resta"
+        },                {
+            "fqsen": "\\Rectangulo",
+            "name": "Rectangulo",
+            "summary": "Clase\u0020para\u0020representar\u0020un\u0020rect\u00E1ngulo\u0020con\u0020una\u0020base\u0020y\u0020una\u0020altura\u0020dadas.",
+            "url": "classes/Rectangulo.html"
+        },                {
+            "fqsen": "\\Rectangulo\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "Constructor\u0020de\u0020la\u0020clase\u0020Rect\u00E1ngulo.",
+            "url": "classes/Rectangulo.html#method___construct"
+        },                {
+            "fqsen": "\\Rectangulo\u003A\u003Aarea\u0028\u0029",
+            "name": "area",
+            "summary": "Calcula\u0020el\u0020\u00E1rea\u0020del\u0020rect\u00E1ngulo.",
+            "url": "classes/Rectangulo.html#method_area"
+        },                {
+            "fqsen": "\\Rectangulo\u003A\u003Aperimetro\u0028\u0029",
+            "name": "perimetro",
+            "summary": "Calcula\u0020el\u0020per\u00EDmetro\u0020del\u0020rect\u00E1ngulo.",
+            "url": "classes/Rectangulo.html#method_perimetro"
+        },                {
+            "fqsen": "\\Rectangulo\u003A\u003A\u0024base",
+            "name": "base",
+            "summary": "Base\u0020del\u0020rect\u00E1ngulo.",
+            "url": "classes/Rectangulo.html#property_base"
+        },                {
+            "fqsen": "\\Rectangulo\u003A\u003A\u0024altura",
+            "name": "altura",
+            "summary": "Altura\u0020del\u0020rect\u00E1ngulo.",
+            "url": "classes/Rectangulo.html#property_altura"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
