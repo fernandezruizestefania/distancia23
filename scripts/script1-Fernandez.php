@@ -3,7 +3,7 @@
  * Este script contiene dos funciones para realizar operaciones matemáticas básicas.
  *
  * @author Estefanía Fernández Ruiz
- * @version 1.0
+ * @version 2.0
  */
 
 /**

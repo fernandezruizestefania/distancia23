@@ -3,7 +3,7 @@
  * Este script contiene una clase para representar un rectángulo con una base y una altura dadas.
  *
  * @author Estefanía Fernández Ruiz
- * @version 1.0
+ * @version 2.0
  */
 
 /**
